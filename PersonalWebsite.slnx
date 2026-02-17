@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PersonalWebsite.Application/PersonalWebsite.Application.csproj" />
+  <Project Path="PersonalWebsite.Doamin/PersonalWebsite.Doamin.csproj" />
+  <Project Path="PersonalWebsite.Infrastructure/PersonalWebsite.Infrastructure.csproj" />
+</Solution>
